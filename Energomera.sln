@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Energomera", "Energomera\Energomera.csproj", "{029B56C1-C906-4CCA-BDB0-824438F2F509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029B56C1-C906-4CCA-BDB0-824438F2F509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029B56C1-C906-4CCA-BDB0-824438F2F509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029B56C1-C906-4CCA-BDB0-824438F2F509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029B56C1-C906-4CCA-BDB0-824438F2F509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDB5A508-8713-45F2-8ADE-56757EF57364}
+	EndGlobalSection
+EndGlobal
